@@ -9,7 +9,15 @@ Inspired by [Obsidian](https://obsidian.md) and the Eleusinian Mysteries [[Podca
 
 Upcoming: [myst.sh](https://myst.sh) (offline)
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 "In the end, we know northing."
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 What this repo is used for:
 - to introduce you to my way of developing and storing ideas
