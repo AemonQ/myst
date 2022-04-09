@@ -7,6 +7,6 @@ We need a solution to accelerate the uncompromised share of knowledge and ideas 
 
 Inspired by [Obsidian](https://obsidian.md) and the Eleusinian Mysteries [[Podcast](https://open.spotify.com/episode/0FwCgmkG2Cfb36etijDIho?si=0b49fe3d09244bd4) or [Blog](https://en.wikipedia.org/wiki/Eleusinian_Mysteries)].
 
-
+Upcoming Homepage ([myst.sh](https://myst.sh))
 
 "In the end, we know northing."
