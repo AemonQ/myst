@@ -12,5 +12,5 @@ Upcoming: [myst.sh](https://myst.sh) (offline)
 "In the end, we know northing."
 
 What this repo is used for:
-- to show my way of thinking and storing ideas
-- to show new developers how such a application gets developed
+- to introduce you to my way of developing and storing ideas
+- to show new developers the whole CICD cycle of such an application
