@@ -1,7 +1,5 @@
 # Myst
 
-Not 'if', but 'where'!
-
 Myst is the vision of a cross-platform, self-expanding knowledgehub, based on customizability, usability and privacy.
 We need a solution to accelerate the uncompromised share of knowledge and ideas so we can make wisdom accessible to the people.
 
