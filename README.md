@@ -7,3 +7,8 @@ Inspired by [Obsidian](https://obsidian.md), an idea sparked by the Eleusinian M
 
 Upcoming: [myst.sh](https://myst.sh) (offline)
 
+Info:
+I'm planning to use this to also guide myself through my DevOps journey.
+The real work on the project will begin after the problems of automatic testing, deployment and scaling are fixed.
+Everything before that won't even be a full proof of concept.
+In the end I'd like to offer you something like [Michael Cade's](https://github.com/MichaelCade) [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) and a functional summary of [aCloudGuru's](https://acloudguru.com) DevOps, Azure and AWS courses with this project as a base to work through.
