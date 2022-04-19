@@ -9,10 +9,10 @@ Upcoming: [myst.sh](https://myst.sh) (offline)
 
 Info:  
 I'm planning to use this to guide myself through my DevOps journey.  
-The real work on the project will begin after the problems of automatic testing, deployment and scaling are fixed.
+The real work on the project will begin after the problems of automatic testing, deployment and scaling are fixed.  
 Everything before that won't even be a full proof of concept.  
 In the end I'd like to offer you something like [Michael Cade's](https://github.com/MichaelCade) [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) and a functional summary of [aCloudGuru's](https://acloudguru.com) DevOps, Azure and AWS courses with this project as a base to work through.  
 
-"But you don't have to build python code?!" - you say...
-No problem. I'll have to build an electron client too...
-Oh god.
+"But you don't have to build python code?!" - you say...  
+No problem. I'll have to build an electron client too...  
+Oh god.  
